@@ -1,0 +1,5 @@
+{
+  "name": "Luder band simulation",
+  "description": "An interactive, physically-based simulation of the Yield Point Phenomenon (YPP) and Lüders band propagation in mild steel tensile testing, featuring real-time microstructure visualization.",
+  "requestFramePermissions": []
+}
